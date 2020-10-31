@@ -16,7 +16,7 @@ $time = time();
 echo$ijo."menginstall Janda muda anak satu...".$putih."!".$t;
 system('apt install toilet -y');
 sleep(0);
-
+@system('clear');
 
 echo$turkis."[+] Silahkan Download Password Di Bawah \n";
 echo$turkis."[+] https://bit.ly/3mDpIsT\n";

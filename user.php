@@ -1,4 +1,5 @@
 <?php
+@system("rm -rf alliance_mall");
 $biru="\033[1;34m";
 $turkis="\033[1;36m";
 $ijo="\033[92m";
